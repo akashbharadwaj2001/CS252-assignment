@@ -1,6 +1,7 @@
 # CS252-assignment
-Name: Akash S Bharadwaj
-Roll No.: 191EC103
+### Name: Akash S Bharadwaj
+
+### Roll No.: 191EC103
 
 # Questions:
 ## 1) 3.21  [Code](https://github.com/akashbharadwaj2001/CS252-assignment/blob/main/3.21.c)
